@@ -9,5 +9,5 @@
 
 ## 课程作业
 ### 理论课作业
-### [信号系统实践环节](https://github.com/huangqian3307/hq/tree/master)
+### [信号系统实践环节](https://github.com/huangqian3307/hq/tree/main)
 ### 大作业
